@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/cyhc4/OneDrive/Escritorio/Universidad/9no/Sistemas/Main_gcd/Main_gcd.srcs/sources_1/new/Main_gcd.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Main_gcd'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/cyhc4/OneDrive/Escritorio/Universidad/9no/Sistemas/Main_gcd/Main_gcd.srcs/sim_1/new/tb_gcd.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tb_gcd'

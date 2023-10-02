@@ -1,0 +1,11 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../../Debounce/Debounce.srcs/sources_1/new/Debounce.vhd" \
+"../../../../../clock_pulse/clock_pulse.srcs/sources_1/new/create_pulse.vhd" \
+"../../../../../gcd/gcd.srcs/sources_1/new/gcd.vhd" \
+"../../../../../disp7/disp7.srcs/sources_1/new/disp7.vhd" \
+"../../../../Main_gcd.srcs/sources_1/new/Main_gcd.vhd" \
+"../../../../Main_gcd.srcs/sim_1/new/tb_gcd.vhd" \
+
+# Do not sort compile order
+nosort
